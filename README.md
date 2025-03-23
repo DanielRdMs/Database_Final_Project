@@ -19,4 +19,3 @@ and Students within its Courses. Also, define roles for Students and Teachers to
 Create triggers and functions: a function to create Student's Users, a function to allow a Teacher to update a Grade for its Students; a trigger for updates on Registered Courses, a trigger to check if a Student also has registered a Course, and a trigger to ensure unique data is added to Registered Courses.
 
 This project includes a DML file where 25 queries has been used to test Database structure and performance.
-main
