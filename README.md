@@ -1,5 +1,5 @@
-# Database Final Project
-Final project for Structured Database course where the task were create a Datababse for an University with Schemas for an Engineering School, and schemas for Engineering programs and Library: 
+# Database Project
+Project for Structured Database course where the task were create a Datababse for an University with Schemas for an Engineering School, and schemas for Engineering programs and Library: 
 - Systems Engineering.
 - Electronic Engineering.
 - Mechanical Engineering.
